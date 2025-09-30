@@ -28,8 +28,8 @@ I built the program step by step in Python:
 
 The repository includes:
 
-* **`bill.py`** – the source code
-* **`screenshot.png`** – a screenshot showing a sample run of the program
+* **`Bill.py`** – the source code
+* **`Bill screenshot.png`** – a screenshot showing a sample run of the program
 
 ### What I Learned
 
